@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/bituum/Desktop/prog/sharaga_works/lab_5/2'
+let g:netrw_dirhist_4='/home/bituum/.config/polybar'
+let g:netrw_dirhist_3='/home/bituum/.config/polybar/polybar-scripts/polybar-scripts/openweathermap-forecast'
+let g:netrw_dirhist_2='/home/bituum'
+let g:netrw_dirhist_1='/home/bituum/.config'
